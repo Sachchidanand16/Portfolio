@@ -1,0 +1,4 @@
+- **Frontend**: React.js + Vite 
+- **Styling**: Tailwind CSS
+- **Hosting**: Vercel
+- **Domain**: Get a custom domain
